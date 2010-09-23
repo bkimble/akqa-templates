@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Akqa.Visa.Rightcliq.ShopperIQ/!svn/ver/128/trunk/lib/tasks
+END
+environment.rake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Akqa.Visa.Rightcliq.ShopperIQ/!svn/ver/128/trunk/lib/tasks/environment.rake
+END
+tunnel.rake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Akqa.Visa.Rightcliq.ShopperIQ/!svn/ver/2/trunk/lib/tasks/tunnel.rake
+END
+cruise.rake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Akqa.Visa.Rightcliq.ShopperIQ/!svn/ver/75/trunk/lib/tasks/cruise.rake
+END
+rspec.rake
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Akqa.Visa.Rightcliq.ShopperIQ/!svn/ver/2/trunk/lib/tasks/rspec.rake
+END

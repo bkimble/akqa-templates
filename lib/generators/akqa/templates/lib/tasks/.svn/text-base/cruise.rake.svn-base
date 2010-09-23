@@ -1,0 +1,6 @@
+task :cruise do
+  configdir = File.expand_path( "../../config/", File.dirname(__FILE__) )
+  cp "#{configdir}/database.ci.yml", "#{configdir}/database.yml"
+  Rake::Task["db:test:prepare"].invoke
+  Rake::Task["spec"].invoke
+end

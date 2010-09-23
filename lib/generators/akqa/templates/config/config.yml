@@ -1,0 +1,2 @@
+# Variables in this file become key/values in AppConfig, ie:
+# foo: bar -> AppConfig['foo'] => "bar"
